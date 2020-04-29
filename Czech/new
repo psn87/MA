@@ -1,53 +1,151 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Trave agency</title>
-</head>
-<style>
-h1{
-  color: #235789;
-  background-color: #fdfffc;
-  font-family: fantasy;
-  font-size: 20;
-  text-align: center;
-}
-.container{
-  width: 500px;
-  margin: auto auto;
-  border-style: dotted;
-  border-color: #ff0000;
-  border-radius: 15px;
-}
-</style>
-<body>
-<div class="container">
-<marquee><h1>Lab 1.3.2</h1></marquee>
-</div>
-<table border="0" cellpadding="5" cellspacing="5">
-    <thead>
-    <tr>
-        <td><b>Paris</b></td>
-        <td><b>Stockholm</b></td>
-        <td><b>Krakow</b></td>
-        <td><b>Ternopil</b></td>
-    </tr>
-    </thead>
-    <tbody>
-    <tr>
-        <td>v1</td>
-        <td>v2</td>
-        <td>v3</td>
-        <td>v4</td>
-    </tr>
-    </tbody>
-    <tfooter>
-    <tr>
-        <td><iframe src="https://ru.wikipedia.org/wiki/Paris" height="500" width="500"></iframe></td>
-        <td><iframe src="https://en.wikipedia.org/wiki/Stockholm" height="500" width="500"></iframe></td>
-        <td><iframe src="https://ru.wikipedia.org/wiki/Krakow" height="500" width="500"></iframe></td>
-        <td><iframe src="https://ru.wikipedia.org/wiki/Ternopil" height="500" width="500"></iframe></td>
-    </tr>
-    </tfooter>
-</table>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Správce seznamů změn">
+    <list default="pravda" id="2641801d-9fa3-440b-91db-d4c9c3279f11" name="Výchozí" comment="">
+      <change type="ZMĚNA" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml"/>
+      <change type="ZMĚNA" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html"/>
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/"/>
+    <ignored path="$PROJECT_DIR$/temp/"/>
+    <ignored path="$PROJECT_DIR$/tmp/"/>
+    <option name="Propojit s @1" value="pravda"/>
+    <option name="Registrace byla zahájena" value="pravda"/>
+    <option name="Zobrazit velikost" value="nepravda"/>
+    <option name="HIGHLIGHTY" value="pravda"/>
+    <option name="Nebyla změněna žádná změna" value="nepravda"/>
+    <option name="Vymazat" value="IGNORA"/>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target"/>
+  <component name="Správce editorů souborů">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="nepravda" current-in-tab="pravda">
+        <entry file="soubor://$PROJECT_DIR$/index.html">
+          <provider selected="pravda" editor-type-id="textový editor">
+            <state relative-caret-position="91">
+              <caret line="12" column="30" lean-forward="pravda" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30"/>
+              <folding/>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Nastavení">
+    <option name="Znovu vložit částku @1" value="$PROJECT_DIR$"/>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="Změna PATS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html"/>
+      </list>
+    </option>
+  </component>
+  <component name="Správce JsBuildToolGruntFileManager" detection-done="pravda" sorting="DEFINICE"/>
+  <component name="Balíček JsBuildToolPackageJson" detection-done="pravda" sorting="DEFINICE"/>
+  <component name="Správce JsGulpfileManager">
+    <detection-done>pravda</detection-done>
+    <sorting>DEFINICE</sorting>
+  </component>
+  <component name="Meze ProjectFrameBounds">
+    <option name="x" value="-8"/>
+    <option name="y" value="-8"/>
+    <option name="width" value="1382"/>
+    <option name="Výška" value="754"/>
+  </component>
+  <component name="Zobrazení projektu">
+    <navigator currentView="Projektová stránka" proportions="" version="1">
+      <flattenPackages/>
+      <showMembers/>
+      <showModules/>
+      <showLibraryContents/>
+      <hideEmptyPackages/>
+      <abbreviatePackageNames/>
+      <autoscrollToSource/>
+      <autoscrollFromSource/>
+      <sortByType/>
+      <manualOrder/>
+      <foldersAlwaysOnTop value="pravda"/>
+    </navigator>
+    <panes>
+      <pane id="Oblast působnosti"/>
+      <pane id="Projektová stránka"/>
+      <pane id="Šrouby"/>
+    </panes>
+  </component>
+  <component name="Vlastnosti komponent">
+    <property name="WebServerToolWindowFactoryState" value="nepravda"/>
+    <property name="HbShouldOpenHtmlAsHb" value=""/>
+    <property name="poslední_otevřít_file_path" value="$PROJECT_DIR$/index.html"/>
+  </component>
+  <component name="Spustit nástěnku">
+    <option name="Pravomoci">
+      <list>
+        <RuleState>
+          <option name="jméno" value="ConfigurationTypeDashboardGroupingRule"/>
+        </RuleState>
+        <RuleState>
+          <option name="jméno" value="StatusDashboardGroupingRule"/>
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="Správce změn" show_recycled="nepravda">
+    <option name="odstranit_strategie" value="nepravda"/>
+  </component>
+  <component name="Správce úloh">
+    <task active="pravda" id="Výchozí" summary="Výchozí úloha">
+      <changelist id="2641801d-9fa3-440b-91db-d4c9c3279f11" name="Výchozí" comment=""/>
+      <created>1522769720842</created>
+      <option name="číslo" value="Výchozí"/>
+      <option name="presentableId" value="Výchozí"/>
+      <updated>1522769720842</updated>
+      <workItem from="1522769723611" duration="11000"/>
+      <workItem from="1522769782971" duration="2059000"/>
+    </task>
+    <servers/>
+  </component>
+  <component name="Správce sledování časů">
+    <option name="celkem Vyčerpané časy" value="2070000"/>
+  </component>
+  <component name="Správce nástrojů">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6"/>
+    <layout>
+      <window_info id="Projekt" active="nepravda" anchor="vlevo" auto_hide="nepravda" internal_type="DOKUMENTOVANÉ" type="DOKUMENTOVANÉ" visible="pravda" show_stripe_button="pravda" weight="0.25" sideWeight="0.5" order="0" side_tool="nepravda" content_ui="kombo"/>
+      <window_info id="TODO" active="nepravda" anchor="dole" auto_hide="nepravda" internal_type="DOKUMENTOVANÉ" type="DOKUMENTOVANÉ" visible="nepravda" show_stripe_button="pravda" weight="0.33" sideWeight="0.5" order="6" side_tool="nepravda" content_ui="tabs"/>
+      <window_info id="Protokol událostí" active="nepravda" anchor="dole" auto_hide="nepravda" internal_type="DOKUMENTOVANÉ" type="DOKUMENTOVANÉ" visible="nepravda" show_stripe_button="pravda" weight="0.33" sideWeight="0.5" order="7" side_tool="pravda" content_ui="tabs"/>
+      <window_info id="Správa verzí" active="nepravda" anchor="dole" auto_hide="nepravda" internal_type="DOKUMENTOVANÉ" type="DOKUMENTOVANÉ" visible="nepravda" show_stripe_button="pravda" weight="0.33" sideWeight="0.5" order="7" side_tool="nepravda" content_ui="tabs"/>
+      <window_info id="Spustit" active="nepravda" anchor="dole" auto_hide="nepravda" internal_type="DOKUMENTOVANÉ" type="DOKUMENTOVANÉ" visible="nepravda" show_stripe_button="pravda" weight="0.33" sideWeight="0.5" order="2" side_tool="nepravda" content_ui="tabs"/>
+      <window_info id="Struktura" active="nepravda" anchor="vlevo" auto_hide="nepravda" internal_type="DOKUMENTOVANÉ" type="DOKUMENTOVANÉ" visible="nepravda" show_stripe_button="pravda" weight="0.25" sideWeight="0.5" order="1" side_tool="nepravda" content_ui="tabs"/>
+      <window_info id="Terminál" active="nepravda" anchor="dole" auto_hide="nepravda" internal_type="DOKUMENTOVANÉ" type="DOKUMENTOVANÉ" visible="nepravda" show_stripe_button="pravda" weight="0.33" sideWeight="0.5" order="7" side_tool="nepravda" content_ui="tabs"/>
+      <window_info id="Oblíbené" active="nepravda" anchor="vlevo" auto_hide="nepravda" internal_type="DOKUMENTOVANÉ" type="DOKUMENTOVANÉ" visible="nepravda" show_stripe_button="pravda" weight="0.33" sideWeight="0.5" order="2" side_tool="pravda" content_ui="tabs"/>
+      <window_info id="Debug" active="nepravda" anchor="dole" auto_hide="nepravda" internal_type="DOKUMENTOVANÉ" type="DOKUMENTOVANÉ" visible="nepravda" show_stripe_button="pravda" weight="0.4" sideWeight="0.5" order="3" side_tool="nepravda" content_ui="tabs"/>
+      <window_info id="Cvs" active="nepravda" anchor="dole" auto_hide="nepravda" internal_type="DOKUMENTOVANÉ" type="DOKUMENTOVANÉ" visible="nepravda" show_stripe_button="pravda" weight="0.25" sideWeight="0.5" order="4" side_tool="nepravda" content_ui="tabs"/>
+      <window_info id="Zpráva" active="nepravda" anchor="dole" auto_hide="nepravda" internal_type="DOKUMENTOVANÉ" type="DOKUMENTOVANÉ" visible="nepravda" show_stripe_button="pravda" weight="0.33" sideWeight="0.5" order="0" side_tool="nepravda" content_ui="tabs"/>
+      <window_info id="Velitel" active="nepravda" anchor="vpravo" auto_hide="nepravda" internal_type="DOKUMENTOVANÉ" type="DOKUMENTOVANÉ" visible="nepravda" show_stripe_button="pravda" weight="0.4" sideWeight="0.5" order="0" side_tool="nepravda" content_ui="tabs"/>
+      <window_info id="Inspekce" active="nepravda" anchor="dole" auto_hide="nepravda" internal_type="DOKUMENTOVANÉ" type="DOKUMENTOVANÉ" visible="nepravda" show_stripe_button="pravda" weight="0.4" sideWeight="0.5" order="5" side_tool="nepravda" content_ui="tabs"/>
+      <window_info id="Hierarchy" active="nepravda" anchor="vpravo" auto_hide="nepravda" internal_type="DOKUMENTOVANÉ" type="DOKUMENTOVANÉ" visible="nepravda" show_stripe_button="pravda" weight="0.25" sideWeight="0.5" order="2" side_tool="nepravda" content_ui="kombo"/>
+      <window_info id="Najít" active="nepravda" anchor="dole" auto_hide="nepravda" internal_type="DOKUMENTOVANÉ" type="DOKUMENTOVANÉ" visible="nepravda" show_stripe_button="pravda" weight="0.33" sideWeight="0.5" order="1" side_tool="nepravda" content_ui="tabs"/>
+      <window_info id="Sestavení" active="nepravda" anchor="vpravo" auto_hide="nepravda" internal_type="DOKUMENTOVANÉ" type="DOKUMENTOVANÉ" visible="nepravda" show_stripe_button="pravda" weight="0.25" sideWeight="0.5" order="1" side_tool="nepravda" content_ui="tabs"/>
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="zpracovávané ProjektFiles" value="pravda"/>
+  </component>
+  <component name="Nastavení VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000"/>
+  </component>
+  <component name="Správce XDebuggerManager">
+    <breakpoint-manager/>
+    <watches-manager/>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="soubor://$PROJECT_DIR$/index.html">
+      <provider selected="pravda" editor-type-id="textový editor">
+        <state relative-caret-position="91">
+          <caret line="12" column="30" lean-forward="pravda" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30"/>
+          <folding/>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
