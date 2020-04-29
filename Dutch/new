@@ -1,53 +1,151 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Trave agency</title>
-</head>
-<style>
-h1{
-  color: #235789;
-  background-color: #fdfffc;
-  font-family: fantasy;
-  font-size: 20;
-  text-align: center;
-}
-.container{
-  width: 500px;
-  margin: auto auto;
-  border-style: dotted;
-  border-color: #ff0000;
-  border-radius: 15px;
-}
-</style>
-<body>
-<div class="container">
-<marquee><h1>Lab 1.3.2</h1></marquee>
-</div>
-<table border="0" cellpadding="5" cellspacing="5">
-    <thead>
-    <tr>
-        <td><b>Paris</b></td>
-        <td><b>Stockholm</b></td>
-        <td><b>Krakow</b></td>
-        <td><b>Ternopil</b></td>
-    </tr>
-    </thead>
-    <tbody>
-    <tr>
-        <td>v1</td>
-        <td>v2</td>
-        <td>v3</td>
-        <td>v4</td>
-    </tr>
-    </tbody>
-    <tfooter>
-    <tr>
-        <td><iframe src="https://ru.wikipedia.org/wiki/Paris" height="500" width="500"></iframe></td>
-        <td><iframe src="https://en.wikipedia.org/wiki/Stockholm" height="500" width="500"></iframe></td>
-        <td><iframe src="https://ru.wikipedia.org/wiki/Krakow" height="500" width="500"></iframe></td>
-        <td><iframe src="https://ru.wikipedia.org/wiki/Ternopil" height="500" width="500"></iframe></td>
-    </tr>
-    </tfooter>
-</table>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="waar" id="2641801d-9fa3-440b-91db-d4c9c3279f11" name="Standaard" comment="">
+      <change type="MODIFICATIE" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml"/>
+      <change type="MODIFICATIE" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html"/>
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/"/>
+    <ignored path="$PROJECT_DIR$/temp/"/>
+    <ignored path="$PROJECT_DIR$/tmp/"/>
+    <option name="EXCLUDED_CONVERTED_TO_CHALLENGE" value="waar"/>
+    <option name="INGESCHAKELD_INGESCHAKELD" value="waar"/>
+    <option name="PLAYLIST_DEACTIVATE_DESCRIPTION" value="Onjuist"/>
+    <option name="HIGHLIGHT_CONFLICTEN" value="waar"/>
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="Onjuist"/>
+    <option name="LAST_RESOLUTE" value="IGNEREN"/>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target"/>
+  <component name="BestandsEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="Onjuist" current-in-tab="waar">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="waar" editor-type-id="tekstverwerker">
+            <state relative-caret-position="91">
+              <caret line="12" column="30" lean-forward="waar" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30"/>
+              <folding/>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Instellingen">
+    <option name="LOCAL_NOTIF_SETTINGS_POPUP_BODY" value="$PROJECT_DIR$"/>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html"/>
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="waar" sorting="BESTELLING"/>
+  <component name="JsBuildToolPackageJson" detection-done="waar" sorting="BESTELLING"/>
+  <component name="JsGulpfileManager">
+    <detection-done>waar</detection-done>
+    <sorting>BESTELLING</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8"/>
+    <option name="j" value="-8"/>
+    <option name="width" value="1382"/>
+    <option name="hoogte" value="754"/>
+  </component>
+  <component name="Projectweergave">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages/>
+      <showMembers/>
+      <showModules/>
+      <showLibraryContents/>
+      <hideEmptyPackages/>
+      <abbreviatePackageNames/>
+      <autoscrollToSource/>
+      <autoscrollFromSource/>
+      <sortByType/>
+      <manualOrder/>
+      <foldersAlwaysOnTop value="waar"/>
+    </navigator>
+    <panes>
+      <pane id="Bereik"/>
+      <pane id="ProjectPane"/>
+      <pane id="Scratches"/>
+    </panes>
+  </component>
+  <component name="Eigenschappencomponent">
+    <property name="WebServerToolWindowFactoryState" value="Onjuist"/>
+    <property name="HbShouldOpenHtmlAsHb" value=""/>
+    <property name="last_opened_bestand_pad" value="$PROJECT_DIR$/index.html"/>
+  </component>
+  <component name="RunDashboard">
+    <option name="regelStaten">
+      <list>
+        <RuleState>
+          <option name="Naam" value="ConfigurationTypeDashboardGroupingRule"/>
+        </RuleState>
+        <RuleState>
+          <option name="Naam" value="StatusDashboardGroupingRule"/>
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="Schapperwijzigingenbeheer" show_recycled="Onjuist">
+    <option name="verwijder_strategie" value="Onjuist"/>
+  </component>
+  <component name="Taakbeheer">
+    <task active="waar" id="Standaard" summary="Standaard taak">
+      <changelist id="2641801d-9fa3-440b-91db-d4c9c3279f11" name="Standaard" comment=""/>
+      <created>1522769720842</created>
+      <option name="nummer" value="Standaard"/>
+      <option name="presentableId" value="Standaard"/>
+      <updated>1522769720842</updated>
+      <workItem from="1522769723611" duration="11000"/>
+      <workItem from="1522769782971" duration="2059000"/>
+    </task>
+    <servers/>
+  </component>
+  <component name="Manager">
+    <option name="totaal gespendeerd" value="2070000"/>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6"/>
+    <layout>
+      <window_info id="Project" active="Onjuist" anchor="links" auto_hide="Onjuist" internal_type="DOKKEN" type="DOKKEN" visible="waar" show_stripe_button="waar" weight="0.25" sideWeight="0.5" order="0" side_tool="Onjuist" content_ui="combinatie"/>
+      <window_info id="TODO" active="Onjuist" anchor="onderkant" auto_hide="Onjuist" internal_type="DOKKEN" type="DOKKEN" visible="Onjuist" show_stripe_button="waar" weight="0.33" sideWeight="0.5" order="6" side_tool="Onjuist" content_ui="tabs"/>
+      <window_info id="Event log" active="Onjuist" anchor="onderkant" auto_hide="Onjuist" internal_type="DOKKEN" type="DOKKEN" visible="Onjuist" show_stripe_button="waar" weight="0.33" sideWeight="0.5" order="7" side_tool="waar" content_ui="tabs"/>
+      <window_info id="Versie Controle" active="Onjuist" anchor="onderkant" auto_hide="Onjuist" internal_type="DOKKEN" type="DOKKEN" visible="Onjuist" show_stripe_button="waar" weight="0.33" sideWeight="0.5" order="7" side_tool="Onjuist" content_ui="tabs"/>
+      <window_info id="Uitvoeren" active="Onjuist" anchor="onderkant" auto_hide="Onjuist" internal_type="DOKKEN" type="DOKKEN" visible="Onjuist" show_stripe_button="waar" weight="0.33" sideWeight="0.5" order="2" side_tool="Onjuist" content_ui="tabs"/>
+      <window_info id="Structuur" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs"/>
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs"/>
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs"/>
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs"/>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs"/>
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs"/>
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs"/>
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs"/>
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo"/>
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs"/>
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs"/>
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true"/>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000"/>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager/>
+    <watches-manager/>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30"/>
+          <folding/>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
