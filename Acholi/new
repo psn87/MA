@@ -1,53 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>crwdns36141:0crwdne36141:0</title>
-</head>
-<style>
-h1{
-  color: #235789;
-  background-color: #fdfffc;
-  font-family: fantasy;
-  font-size: 20;
-  text-align: center;
-}
-.container{
-  width: 500px;
-  margin: auto auto;
-  border-style: dotted;
-  border-color: #ff0000;
-  border-radius: 15px;
-}
-</style>
-<body>
-<div class="container">
-<marquee><h1>crwdns36143:0crwdne36143:0</h1></marquee>
-</div>
-<table border="0" cellpadding="5" cellspacing="5">
-    <thead>
-    <tr>
-        <td><b>crwdns36145:0crwdne36145:0</b></td>
-        <td><b>crwdns36147:0crwdne36147:0</b></td>
-        <td><b>crwdns36149:0crwdne36149:0</b></td>
-        <td><b>crwdns36151:0crwdne36151:0</b></td>
-    </tr>
-    </thead>
-    <tbody>
-    <tr>
-        <td>crwdns36153:0crwdne36153:0</td>
-        <td>crwdns36155:0crwdne36155:0</td>
-        <td>crwdns36157:0crwdne36157:0</td>
-        <td>crwdns36159:0crwdne36159:0</td>
-    </tr>
-    </tbody>
-    <tfooter>
-    <tr>
-        <td><iframe src="crwdns36161:0crwdne36161:0" height="500" width="500"></iframe></td>
-        <td><iframe src="crwdns36163:0crwdne36163:0" height="500" width="500"></iframe></td>
-        <td><iframe src="crwdns36165:0crwdne36165:0" height="500" width="500"></iframe></td>
-        <td><iframe src="crwdns36167:0crwdne36167:0" height="500" width="500"></iframe></td>
-    </tr>
-    </tfooter>
-</table>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
