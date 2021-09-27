@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="crwdns35449:0crwdne35449:0">
-  <component name="crwdns35451:0crwdne35451:0">
-    <mapping directory="crwdns35453:0$PROJECT_DIR$crwdne35453:0" vcs="crwdns35455:0crwdne35455:0"/>
+<project version="crwdns35441:0crwdne35441:0">
+  <component name="crwdns35443:0crwdne35443:0">
+    <modules>
+      <module fileurl="crwdns35445:0$PROJECT_DIR$crwdne35445:0" filepath="crwdns35447:0$PROJECT_DIR$crwdne35447:0"/>
+    </modules>
   </component>
 </project>
