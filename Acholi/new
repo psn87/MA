@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module type="WEB_MODULE" version="4">
-  <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
-      <excludeFolder url="file://$MODULE_DIR$/temp" />
-      <excludeFolder url="file://$MODULE_DIR$/tmp" />
-    </content>
-    <orderEntry type="inheritedJdk" />
-    <orderEntry type="sourceFolder" forTests="false" />
+<project version="crwdns35449:0crwdne35449:0">
+  <component name="crwdns35451:0crwdne35451:0">
+    <mapping directory="crwdns35453:0$PROJECT_DIR$crwdne35453:0" vcs="crwdns35455:0crwdne35455:0"/>
   </component>
-</module>
+</project>
